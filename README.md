@@ -27,3 +27,21 @@ Calls by time: This KPI measures the volume of calls during different times of t
 Average speed of answer: This KPI measures the average time taken by agents to answer customer calls. 
 
 Agent’s performance quadrant -> average handle time (talk duration) vs calls answered: This KPI measures the performance of agents in terms of the average handle time of calls versus the number of calls answered.
+
+# 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:
+
+●  5000 calls have been recorded, from which 81.08% of calls have been answered and 18.92% have been abandoned.
+
+● Out of 5000 total calls 4054 calls are answered in which 3646 are resolved and Overall satisfaction rate  is 3.40.
+
+● Jim stood at the top of the board by making a greater number of calls i.e. 666, while Stewart is at last position with 582.
+
+● Diane has the most number of missed calles she has to improve her ability to answer calls.
+
+● Average speed of answer calls is 67.52 seconds.
+
+● Martha is the most rated Agent.
+
+● Monday's recorded the most number of calls (770) while Tuesday's recorded the least number of calls (675)
+
+●The Call volume is high from 12:00 pm to 2:00 pm.
