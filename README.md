@@ -77,7 +77,7 @@ Key points from Customer Retention Analysis:
 
 # Objective: 
 
-This task requires you to measure and analyze the gender balance in the executive suite and create appropriate KPIs based on the dataset. 
+This task requires  to measure and analyze the gender balance in the executive suite and create appropriate KPIs based on the dataset. 
 
 Calculating the following measures could help to define proper KPIs:
 
